@@ -1,5 +1,5 @@
 package com.vsr.DefaultAndStaticMethods;
-
+//comment
 interface Printmessage{
 	default void print() {
 		System.out.println("Hello Santhosh");
