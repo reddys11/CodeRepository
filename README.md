@@ -1,2 +1,2 @@
 # CodeRepository
-Codes
+practice examples
