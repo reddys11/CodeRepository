@@ -1,2 +1,3 @@
 # CodeRepository
-practice examples
+practice example
+Read me
