@@ -1,4 +1,4 @@
-# Java 8 Basic Features
+# Java 8 Basics
 1. Lambda Expressions 
 2. Functional Interfaces 
 3. Default methods in Interface 
